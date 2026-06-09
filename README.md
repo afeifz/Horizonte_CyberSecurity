@@ -59,15 +59,17 @@ para monitorar as principais operações da API.
 
 A pasta **evidencias** contém:
 
-- Print do código contendo a implementação dos logs
-- Print do console da aplicação demonstrando os logs em execução
+- Código contendo a implementação dos logs
+- Prints do console da aplicação demonstrando os logs em execução
 
 ### Estrutura
 
 ```text
 evidencias/
-├── codigo_logs.png
-└── console_logs.png
+├── printConsultaAlert.png
+├── printConsultaEvent.png
+├── printSync.png
+└── trechosImplementacao.png
 ```
 
 ---
