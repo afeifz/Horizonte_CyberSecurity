@@ -142,7 +142,7 @@ Auxilia na disseminação de informações relacionadas a riscos ambientais, apo
 ```text
 Horizonte_CyberSecurity/
 
-└── evidencias/
+├── evidencias/
     ├── trechosImplementacao.txt
     └── printSync.png
     └── printConsultaEvent.png
@@ -150,5 +150,5 @@ Horizonte_CyberSecurity/
 ├── implementacao/
 │   └── EventController.java
 ├── README.md
-├── CyberSecurity_Horizonte.pdf
+└── CyberSecurity_Horizonte.pdf
 ```
